@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sayani Ghosh 👋
+### Java Backend Developer (3+ Years Experience)
 
-<!--
-**Sayanighoshh/Sayanighoshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer specializing in scalable enterprise applications using **Java, Spring Boot, Spring Security, and Microservices Architecture**. Experienced in designing secure REST APIs, SSL/TLS certificate configurations, database optimization (PostgreSQL/Oracle), and cloud integrations (AWS S3 & Lambda).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+- **Languages & Frameworks:** Java, Spring Boot, Spring MVC, Spring Security, Spring Batch
+- **Microservices & Resilience:** Spring Cloud OpenFeign, Resilience4j (Circuit Breaker)
+- **Security & Networking:** JWT Authentication, SSL/TLS, Keystore (PKCS12), mTLS
+- **Databases & Tools:** PostgreSQL, Oracle, Flyway, Docker, Git, Postman
+- **Cloud & Testing:** AWS S3, AWS Lambda, JUnit 5, Mockito
+
+---
